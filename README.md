@@ -1,9 +1,11 @@
 <h1 align="center">" Wrong town, wrong country, wrong era. "</h1>
 <p align="center">
-<img src="https://imgur.com/UtVgqP6.png" width="1500"/>
+<img src="https://imgur.com/cplMdS5.png" width="500"/>
+</p>
+<p align="center">Nischa <3
 </p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298891757852954634/faotj.png?ex=6732f1b7&is=6731a037&hm=e46387f1a163694f57b459f52493872508566a3f62be66d554cd5f4f498eb7f6&"/>
+<img src="https://imgur.com/zRpiZ2c.png" width="300"/>
 </p>
 </br></br>
 <p align="center">🟢 : actively on pt/making skins.<br/>
@@ -17,18 +19,18 @@
 <h3 align="center">Sign my Atabook!<br/>
 </h3>
 </p>
-<p align="center">(https://poppzickle.atabook.org/)<br/>
+<p align="center">(https://aoicrynn.atabook.org)<br/>
 </p>
 </p>
 <h3 align="center">| ⩇⩇:⩇⩇ |</h3>
 <h3 align="center">Draw me something on my Strawpage!<br/>
 </h3>
 </p>
-<p align="center">(https://poppzicklee.straw.page)<br/>
+<p align="center">(https://aoicrynn.straw.page)<br/>
 </p>
 </br></br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298890387276173362/adas.png?ex=6732f070&is=67319ef0&hm=692e375ae072a4fe1f2880c32287b3ebdafeccd661ecfd00a246649dad28354d&" width=250"/>
+<img src="https://imgur.com/M2E8Ofe.png"/>
 <p align="center">Free for cuddles 24/7 <3<br/>
 </p>
 <p align="center">
@@ -36,7 +38,7 @@
 </p>
 <h3 align="center">Fandoms 'n Interests</h3>
 <p align="center">
-Mouthwashing, FAITH, CRK, Project Sekai, Vocaloid, UTAU, Hatoful Boyfriend, ZZZ, and more!</p>
+Ride The Cyclone, EPIC, VOCALOID/UTAU, Mouthwashing, FAITH, CRK, and more!!!</p>
 <p align="center">
 If you're into any of these fandoms, please int with me..
 </p>
