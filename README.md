@@ -1,6 +1,6 @@
 <h1 align="center">" Wrong town, wrong country, wrong era. "</h1>
 <p align="center">
-<img src="https://imgur.com/a/JRxxDte" width="1500"/>
+<img src="https://imgur.com/UtVgqP6.png" width="1500"/>
 </p>
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298891757852954634/faotj.png?ex=6732f1b7&is=6731a037&hm=e46387f1a163694f57b459f52493872508566a3f62be66d554cd5f4f498eb7f6&"/>
