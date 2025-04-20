@@ -7,6 +7,9 @@
 <p align="center">
 <img src="https://imgur.com/zRpiZ2c.png" width="300"/>
 </p>
+  <p align="center">
+<img src="https://imgur.com/3xcCRwK.png" width="300"/>
+</p>
 </br></br>
 <p align="center">🟢 : actively on pt/making skins.<br/>
 </p>
